@@ -1,0 +1,15 @@
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\bin\Debug\net7.0\HelloWorldConsoleApp.exe
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\bin\Debug\net7.0\HelloWorldConsoleApp.deps.json
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\bin\Debug\net7.0\HelloWorldConsoleApp.runtimeconfig.json
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\bin\Debug\net7.0\HelloWorldConsoleApp.dll
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\bin\Debug\net7.0\HelloWorldConsoleApp.pdb
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\obj\Debug\net7.0\HelloWorldConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\obj\Debug\net7.0\HelloWorldConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\obj\Debug\net7.0\HelloWorldConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\obj\Debug\net7.0\HelloWorldConsoleApp.AssemblyInfo.cs
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\obj\Debug\net7.0\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\obj\Debug\net7.0\HelloWorldConsoleApp.dll
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\obj\Debug\net7.0\refint\HelloWorldConsoleApp.dll
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\obj\Debug\net7.0\HelloWorldConsoleApp.pdb
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\obj\Debug\net7.0\HelloWorldConsoleApp.genruntimeconfig.cache
+C:\Users\Millensys60\Desktop\HelloWorldConsoleApp\obj\Debug\net7.0\ref\HelloWorldConsoleApp.dll
